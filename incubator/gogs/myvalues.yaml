@@ -1,2 +1,4 @@
 
-aaa: bbbbbbb
+persistence:
+  enabled: true
+  storageClass: gp2
